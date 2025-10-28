@@ -70,10 +70,10 @@ Get portfolio value:
 curl http://localhost:5001/portfolio-value
 
 Calculate capital gains:
-# Total gains
+Total gains:
 curl http://localhost:5003/capital-gains
 
-# Filter by portfolio and share count
+Filter by portfolio and share count:
 curl "http://localhost:5003/capital-gains?portfolio=stocks1&numsharesgt=10"
 
 API Endpoints:
