@@ -32,7 +32,6 @@ How To Setup:
 1. Clone the repo
 
 git clone https://github.com/Barwest7/StocksProject.git
-cd StocksProject
 
 2. Get a free API key from API Ninjas
 
